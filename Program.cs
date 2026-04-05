@@ -7,6 +7,7 @@ namespace GalimyanovaIV
         { 
             Console.WriteLine("Hello"); 
         } 
+        //solve task2
     } 
 } 
 //new_feature 
